@@ -39,7 +39,7 @@ logAccess();
 
     <main class="container">
         <section class="hero">
-            <h2>Bem-vindo à nossa Plataforma Digital!</h2>
+            <h2>Bem-vindo à nossa Plataforma Digital!!</h2>
             <p>Esta é uma aplicação PHP legada que está sendo modernizada através de práticas DevOps.</p>
             
             <div class="stats">
